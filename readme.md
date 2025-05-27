@@ -100,7 +100,7 @@ quiz-app/
 
    ```bash
    git clone https://github.com/mahm0udnasr/quiz-app-nextjs.git
-   cd modern-quiz-app
+   cd quiz-app-nextjs
    ```
 
 2. **Install dependencies**
